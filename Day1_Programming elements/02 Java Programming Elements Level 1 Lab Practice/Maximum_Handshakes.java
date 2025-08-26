@@ -10,6 +10,6 @@ public class Maximum_Handshakes {
 
        System.out.println("The maximum number of Handshakes possible among " +N+ " students are "+Max_HandShakes);
 
-
+    
     }
 }
