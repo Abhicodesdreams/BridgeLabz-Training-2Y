@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2097861-7f45-4f85-a6d1-25ae679e40c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/Bonus_OfEmployees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/DivisibleBy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/EvenOdd_Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/Factorial_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/Factorial_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/LargestOf3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/NaturalNumber_Check_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/Positive_Negative_ZeroCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/RocketLaunch_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/RocketLaunch_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/SmallestOf3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/SpringSeason_Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/SumOfNumbers_until0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/SumOfNumbers_until0Negative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/SumOf_N_NaturalNumbers_Compare2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/Sumof_N_NaturalNumbers_Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-1/VotingEligibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/AllMultiples_OfInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/AllMultiples_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/FactorsOfNum_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/FactorsOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/FizzBuzz_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/FizzBuzz_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/GreatestFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/GreatestFactor_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/PowerOfNumber_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/PowerOf_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LEVEL-2/Youngest_Tallest_Friends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeapYear_Check.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HelloWorld.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="31gwiMb8xWSpn97bQAjzZyoZpk7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LeapYear_Check.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "core-java",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2097861-7f45-4f85-a6d1-25ae679e40c0" name="Changes" comment="" />
+      <created>1755959149997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755959149997</updated>
+    </task>
+    <servers />
+  </component>
+</project>
