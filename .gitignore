@@ -1,0 +1,10 @@
+# Ignore IDE files
+.idea/
+
+# Ignore compiled files
+*.class
+
+# Ignore build output folders
+out/
+Day4_JavaMethods/**/out/
+
